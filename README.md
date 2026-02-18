@@ -137,14 +137,6 @@ http://localhost:8080
 - `created`: LocalDateTime
 - `updated`: LocalDateTime
 
-## 🎯 Próximos Passos
-
-- [ ] Autenticação de usuários
-- [ ] Compartilhamento de listas
-- [ ] Temas customizáveis
-- [ ] Testes unitários e de integração
-- [ ] Deploy em produção
-
 ## 📝 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
