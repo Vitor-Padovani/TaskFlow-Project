@@ -6,7 +6,7 @@
 
 TaskFlow é uma aplicação full-stack para gerenciamento de tarefas, desenvolvida com **Java Spring Boot** no backend e **HTML/CSS/JavaScript** puro no frontend. O projeto permite criar listas de tarefas, organizar tarefas por prioridade, acompanhar progresso e gerenciar o status de cada item.
 
-![tasks](demo/task.png)
+![tasksPrint](demo/task.png)
 
 ## 📋 Funcionalidades
 
