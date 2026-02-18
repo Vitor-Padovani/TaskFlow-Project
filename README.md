@@ -93,7 +93,7 @@ O projeto utiliza um design system próprio com as seguintes características:
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/taskflow.git
+git clone https://github.com/Vitor-Padovani/TaskFlow-Project
 cd taskflow
 ```
 
@@ -151,4 +151,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Desenvolvido por [Padovani](https://github.com/seu-usuario) como parte do portfólio de desenvolvimento Java/Spring.
+Desenvolvido por [Padovani](https://github.com/Vitor-Padovani) como parte do portfólio de desenvolvimento Java/Spring.
