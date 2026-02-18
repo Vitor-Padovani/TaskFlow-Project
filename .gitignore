@@ -1,0 +1,26 @@
+# Compiled files
+*.class
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea/
+*.iws
+*.iml
+*.ipr
+.mvn/
+mvnw
+mvnw.cmd
+
+# Logs
+logs/
+*.log
+
+# Database
+db/
+*.db
+*.h2.db
+
+# VS Code
+.vscode/
+.settings/
